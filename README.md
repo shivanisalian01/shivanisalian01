@@ -14,7 +14,7 @@ I build AI-powered, user-facing web products — not research demos. My focus is
 
 📫 Reach me: shivanisaliann@gmail.com
 
-🌐 Portfolio: [portfolio-mywebsite.vercel.app](https://portfolio-mywebsite.vercel.app/)
+
 
 ---
 
